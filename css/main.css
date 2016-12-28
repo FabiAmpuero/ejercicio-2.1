@@ -2,15 +2,15 @@ body {
     background: url(../img/Sunset-over-clouds-wallpaper-1920x1080.jpg) no-repeat;
     background-attachment: scroll;
     background-size: cover;
-    font-family: "Courgette";
-    color: #fff;
+    font-family: "Poiret One";
+    color: #000;
     padding-top: 30px;
 }
 .container {
     width: 600px;
 }
 .titulo {
-    flex-shrink: 100px;
+    font-size: 40px;
     color: #ff5ed4;
 }
 input {
